@@ -1,4 +1,4 @@
-<img src="./1.gif" width="600">
+<img src="./1.gif" align=center width="600">
 
 
 <!--
