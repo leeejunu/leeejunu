@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="./shin.gif" width="600">
+
 
 <!--
 **leeejunu/leeejunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
