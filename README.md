@@ -1,4 +1,4 @@
-<img src="./shin.gif" width="600">
+<img src="./1.gif" width="600">
 
 
 <!--
