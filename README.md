@@ -1,5 +1,6 @@
-<img src="./1.gif" align=center width="600">
-
+<p align="center">
+  <img src="./1.gif" width="600">
+</p>
 
 <!--
 **leeejunu/leeejunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
